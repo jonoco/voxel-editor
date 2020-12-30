@@ -1,0 +1,6 @@
+
+Vertex shader failed to compile with the following errors:
+ERROR: 0:10: error(#132) Syntax error: "gl_Position" parse error
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+
